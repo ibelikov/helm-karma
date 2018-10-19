@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: "0.1.4"
+description: A Helm chart for Karma - Alertmanager dashboard
+name: karma
+sources:
+- https://github.com/prymitive/karma
+version: 0.1.4
+maintainers:
+- name: Igor Belikov
+  email: igor.belikov@mendix.com
